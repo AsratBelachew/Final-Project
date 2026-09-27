@@ -1,0 +1,11 @@
+movieId,title,genres,similarity,avg_rating,rating_count,score,why_recommended
+2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,0.862,3.516,92,0.838,"Shared genres: Adventure, Animation, Children, Comedy"
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,0.644,3.861,97,0.661,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,0.368,3.926,27,0.425,Shared genres: Adventure
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,0.358,3.871,132,0.419,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,0.358,3.716,37,0.413,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,0.358,3.45,10,0.409,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,0.347,3.814,43,0.407,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,0.358,3.244,45,0.404,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+65261,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy,0.345,4.0,11,0.403,"Shared genres: Adventure, Animation, Children, Fantasy"
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,0.358,3.024,21,0.402,"Shared genres: Adventure, Animation, Children, Comedy, Fantasy"

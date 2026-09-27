@@ -1,0 +1,7 @@
+Metric,Value
+Unique users,610.0
+Movies in metadata,9742.0
+Rated movies,9724.0
+Total ratings,100836.0
+Mean rating,3.502
+Rating matrix sparsity (%),98.3

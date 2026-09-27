@@ -1,0 +1,11 @@
+rank,movieId,title,genres,content_similarity,avg_rating,rating_count,final_score,why_recommended
+1,2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,0.862,3.52,92,0.833,"shared genres: Adventure, Animation, Children, Comedy; shared tags: pixar"
+2,3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,0.644,3.86,97,0.659,"shared genres: Adventure, Animation, Children, Comedy, Fantasy; shared tags: pixar"
+3,122918,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,0.368,3.93,27,0.425,shared genres: Adventure; shared tags: fun
+4,4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,0.358,3.87,132,0.416,"shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+5,4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,0.358,3.72,37,0.411,"shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+6,65261,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy,0.345,4.0,11,0.405,"shared genres: Adventure, Animation, Children, Fantasy"
+7,134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,0.347,3.81,43,0.405,"shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+8,162578,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy,0.345,4.0,6,0.403,"shared genres: Adventure, Animation, Children, Fantasy"
+9,166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,0.358,3.45,10,0.403,"shared genres: Adventure, Animation, Children, Comedy, Fantasy"
+10,2033,"Black Cauldron, The (1985)",Adventure|Animation|Children|Fantasy,0.345,3.75,8,0.399,"shared genres: Adventure, Animation, Children, Fantasy"
