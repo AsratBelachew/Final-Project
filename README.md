@@ -1,7 +1,10 @@
-# Capstone 8 - Movie Recommendation System
+# Capstone - Movie Recommendation System
 
-This project builds an explainable content-based movie recommender using the MovieLens Latest Small dataset. Genres and tags are converted to TF-IDF features, cosine similarity ranks related movies, and an optional Bayesian average-rating signal improves the final ranking.
+This project builds a content-based movie recommendation system using movie genres and user-generated tags. TF-IDF converts the combined text features into numerical vectors, and cosine similarity identifies movies with similar content. 
 
+MovieLens Latest Small was selected because it contains movie metadata, genres, user ratings, and tags. It is suitable for both content-based recommendations and an optional collaborative/quality signal.
+
+The included dataset is for development and education. See data/raw/README.txt for source and license information.
 ## Project deliverables
 
 - `notebooks/movie_recommendation_system.ipynb` - complete, executed analysis
